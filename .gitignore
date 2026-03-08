@@ -1,0 +1,11 @@
+# ===== Secrets & env =====
+.env
+# ===== Node / Frontend =====
+node_modules/
+dist/
+build/
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
